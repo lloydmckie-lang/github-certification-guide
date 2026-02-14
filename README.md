@@ -13,6 +13,8 @@ In this repo you will find study guides, and resources to help you prepare for t
 | [GitHub Actions](https://learn.microsoft.com/collections/n5p4a5z7keznp5?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)                | Learn to automate your software development workflows     | [GitHub Actions Guide](./study-guides/gh-actions.md)    |
 | [GitHub Advanced Security](https://learn.microsoft.com/collections/rqymc6yw8q5rey?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)    | Learn how to secure your code at every stage of your development lifecycle. | [GHAS Guide](./study-guides//gh-advanced-security.md) |
 | [GitHub Administration](https://learn.microsoft.com/collections/mom7u1gzjdxw03?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)        | Learn to maintain a healthy, robust, and secure GitHub environment | [GitHub Admin Guide](./study-guides/gh-administration.md) |
+| [GitHub CoPilot](https://learn.microsoft.com/en-us/training/courses/gh-300t00)        | Learn to use GitHub CoPilot AI, a generateive AI too for developers | [GitHub CoPilot Guide](./study-guides/gh-copilot.md) |
+
 
 You can find the full **candidate handbook** here: [GitHub Certification Handbook](https://examregistration.github.com/handbook).
 
